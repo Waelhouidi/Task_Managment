@@ -1,0 +1,25 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),url(../../edusity_assets/hero.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-text{
+    display: flex;
+    gap: 15px
+    ;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    line-height: 1.5;
+    padding-top: 4px;
+
+}
+
