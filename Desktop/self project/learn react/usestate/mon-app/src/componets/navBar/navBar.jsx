@@ -15,8 +15,8 @@ function NavBar() {
     <nav className={`container ${sticky ? 'dark-nav' : ''}`}>
       <img src={logo} alt="logo" className="logo" />
       <ul>
-        <li>Home</li>
-        <li>Programs</li>
+        <li>Home </li>
+        <li> Programs</li>
         <li>About us</li>
         <li>Compus</li>
         <li>Testimonials</li>
